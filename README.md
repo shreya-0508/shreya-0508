@@ -77,7 +77,7 @@
 <a href="https://github.com/shreya-0508">
   <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/shreya_0508/">
+<a href="https://www.instagram.com/shreya.___.05/">
   <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/shreya.botte">
